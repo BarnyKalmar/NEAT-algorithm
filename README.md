@@ -21,7 +21,7 @@ NEAT evolutionary algrithm implemented to solve openAIgymnasium's cart pole task
 - matplotlib, numpy, random, gymnasium, math 
 
 ## Contact 
-- Barnabas Kalmar - k.barney114@gmail.om
+- Barnabas Kalmar - k.barney114@gmail.com
 - GitHub: BarnyKalmar
 - LinkedIn: Barnabas Kalmar
 
